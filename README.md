@@ -8,6 +8,7 @@
 #### **Markmið:**
 Vertu fyrstur að kveikja á öllum 12 perunum og komdu hestinum þínum fyrstum í mark.
 Svona virkar leikurinn:
+
 **Hlaupið:** Ýttu á vinstri og hægri takkann til skiptis eins hratt og þú getur til að láta hestinn hlaupa.
 
 **Passaðu taktinn:** Ef þú ýtir á sama takkann tvisvar í röð hrasar hesturinn og hægir á sér.
