@@ -13,6 +13,6 @@ Svona virkar leikurinn:
 
 **Passaðu taktinn:** Ef þú ýtir á sama takkann tvisvar í röð hrasar hesturinn og hægir á sér.
 
-**Miðjutakkinn:** Þegar takkinn í miðjunni fer að blikka þarftu að vera snöggur að ýta á hann.
+**Miðjutakkinn:** Þegar takkinn í miðjunni fer að blikka þarftu að vera snöggur að ýta á hann annars tefst hesturinn.
 
 **Staðan:** Ljósin 12 í miðjunni sýna hversu langt þú ert kominn. Þegar 12. peran kviknar ertu kominn í mark og hefur unnið!
